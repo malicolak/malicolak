@@ -2,6 +2,8 @@
 - I’m interested in codding and programming.
 - I’m currently learning java and react.
 - I’m looking to collaborate on my projects.
+- we must not forget to nothing last forever.
+- We can change the future.
 
 
 <!---
