@@ -1,6 +1,6 @@
 - Hi, I’m Muhammet Ali.
 - I’m interested in codding and programming.
-- I’m currently learning java and react.
+- I’m currently learning java, javascript and react.
 - I’m looking to collaborate on my projects.
 - We must not forget to nothing last forever.
 - We can change the future.
