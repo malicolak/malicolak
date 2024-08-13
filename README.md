@@ -1,8 +1,11 @@
 - Hi, I’m Muhammet Ali.
-- I’m interested in codding, programming and frontend developing.
-- I’m currently learning java, html, css, javascript and react.
+- I'm a Computer Engineer.
+- Also I’m interested in coding, programming, and back-end development.
+- I learned Java in my education program.
+- Currently, I learning C#, microservice, version control systems (like GIT), and .NET core technologies.
 - I’m looking to collaborate on my projects.
-- We must not forget to nothing last forever.
+- And we must not forget that.
+- Nothing last forever.
 - We can change the future.
 
 
