@@ -2,7 +2,7 @@
 - I'm a Computer Engineer.
 - Also I’m interested in coding, programming, and back-end development.
 - I learned Java in my education program.
-- Currently, I learning C#, microservice, version control systems (like GIT), and .NET core technologies.
+- Currently, I learning spring framework, microservice, version control systems (like GIT), and DevOps  technologies.
 - I’m looking to collaborate on my projects.
 - And we must not forget that.
 - Nothing last forever.
