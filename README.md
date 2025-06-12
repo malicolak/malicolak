@@ -30,5 +30,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malicolak&" alt="malicolak" /></p>
 
-
+![snake gif](https://github.com/malicolak/malicolak/blob/output/github-contribution-grid-snake.gif)
 
