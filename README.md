@@ -1,7 +1,11 @@
 ![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 <h1 align="center">Hi 👋, I'm Muhammet Ali</h1>
 <h3 align="center">I'm Computer Engineer and Software Developer</h3>
-
+<p align="center">
+<a href="https://github.com/CagatayAkkas">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Muhammet+Ali+Çolak+%e2%9c%a8;%f0%9f%92%bb+Computer+Engineer+%f0%9f%92%bb;%f0%9f%93%9a+Software+Developer+%f0%9f%93%9a;%f0%9f%91%80+Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+ </a>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malicolak&label=Profile%20views&color=d978bf&style=plastic" alt="malicolak" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malicolak" alt="malicolak" /></a> </p>
