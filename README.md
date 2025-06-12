@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **m.alicolak@hotmail.com**
 
-- ⚡ It's a fact **Nothing last forever. We can change the future.**
+- ⚡ **Nothing last forever. We can change the future.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
