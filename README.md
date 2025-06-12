@@ -7,7 +7,7 @@
  </a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malicolak&label=Profile%20views&color=d978bf&style=plastic" alt="malicolak" /> </p>
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Coding" width=480 height=400 align="right">
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Coding" width=360 height=270 align="right">
 
 - 🔭 I’m currently working on **Web projects**
 
