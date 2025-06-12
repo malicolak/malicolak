@@ -3,7 +3,7 @@
 <h3 align="center">I'm Computer Engineer and Software Developer</h3>
 <p align="center">
 <a href="https://github.com/CagatayAkkas">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Muhammet+Ali+Çolak+%e2%9c%a8;%f0%9f%92%bb+Computer+Engineer+%f0%9f%92%bb;%f0%9f%93%9a+Software+Developer+%f0%9f%93%9a;%f0%9f%91%80+Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Muhammet+Ali+Çolak+%e2%9c%a8;%f0%9f%92%bb+Computer+Engineer+%f0%9f%92%bb;%f0%9f%93%9a+Software+Developer+%f0%9f%93%9a;%f0%9f%92%81+Welcome+to+My+Profile+" alt="Typing SVG" />
  </a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malicolak&label=Profile%20views&color=d978bf&style=plastic" alt="malicolak" /> </p>
@@ -28,11 +28,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malicolak&show_icons=true&theme=dracula&title_color=e485c0&text_color=dfdf99&bg_color=160541&hide_border=true&locale=en&layout=compact" alt="malicolak" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malicolak&show_icons=true&theme=dracula&title_color=e485c0&text_color=dfdf99&bg_color=160541&hide_border=true&locale=en&layout=compact" alt="malicolak" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malicolak&show_icons=true&theme=dracula&title_color=d779bd&text_color=e1df93&bg_color=130443&hide_border=true&locale=en" alt="malicolak" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malicolak&show_icons=true&theme=dracula&title_color=d779bd&text_color=e1df93&bg_color=130443&hide_border=true&locale=en" alt="malicolak" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malicolak&" alt="malicolak" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malicolak&" alt="malicolak" /></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/malicolak/malicolak/output/github-contribution-grid-snake-dark.svg">
