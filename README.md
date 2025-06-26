@@ -40,7 +40,7 @@
 </p>
 <h3 align="left">Tools:</h3>
 <p align="left">
-  <a href="https://www.jetbrains.com" target="_blank" rel="noreferrer"><img src="https://dl.flathub.org/media/com/jetbrains/IntelliJ-IDEA-Ultimate/abf65e4438699ed3a3072695caa0db9f/icons/128x128@2/com.jetbrains.IntelliJ-IDEA-Ultimate.png" alt="intellij idea" width="50" height="50"/></a>
+  <a href="https://www.jetbrains.com/idea" target="_blank" rel="noreferrer"><img src="https://dl.flathub.org/media/com/jetbrains/IntelliJ-IDEA-Ultimate/abf65e4438699ed3a3072695caa0db9f/icons/128x128@2/com.jetbrains.IntelliJ-IDEA-Ultimate.png" alt="intellij idea" width="50" height="50"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a>
 </p>
 <h2 align="center"> Github Stats </h2>
