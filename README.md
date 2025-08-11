@@ -42,14 +42,14 @@
 <p align="left">
   <a href="https://www.jetbrains.com/idea" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/JetBrains_IntelliJ_IDEA_Product_Icon.svg/2048px-JetBrains_IntelliJ_IDEA_Product_Icon.svg.png" alt="intellij idea" width="50" height="50" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="https://avatars.slack-edge.com/2024-04-05/6934042159649_ac803d1cddbcbef8f110_512.png" alt="postman" width="50" height="50"></a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://avatars.slack-edge.com/2024-04-05/6934042159649_ac803d1cddbcbef8f110_512.png" alt="postman" width="50" height="50"></a>
 </p>
 <h2 align="center"> Github Stats </h2>
 
  <br />
  
   <p align="center">
-  <a>
+  <a href="https://github.com/malicolak">
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=malicolak&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="malicolak" />
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
@@ -62,7 +62,7 @@
 
  
  <p align="center">
-  <a>
+  <a hre="https://github.com/malicolak">
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=malicolak&theme=material-palenight" alt="malicolak" width="55%" />
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
@@ -76,7 +76,7 @@
   
   
   <p align="center">
-  <a>
+  <a href="https://github.com/malicolak">
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malicolak&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="malicolak" />
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
