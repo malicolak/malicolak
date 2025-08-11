@@ -62,7 +62,7 @@
 
  
  <p align="center">
-  <a hre="https://github.com/malicolak">
+  <a href="https://github.com/malicolak">
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=malicolak&theme=material-palenight" alt="malicolak" width="55%" />
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
