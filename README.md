@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muhammet Ali</h1>
 <h3 align="center">I'm Computer Engineer and Software Developer</h3>
 <p align="center">
-<a href="https://github.com/CagatayAkkas">
+<a href="https://github.com/malicolak">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Muhammet+Ali+Çolak+%e2%9c%a8;%f0%9f%92%bb+Computer+Engineer+%f0%9f%92%bb;%f0%9f%93%9a+Software+Developer+%f0%9f%93%9a;%f0%9f%92%81+Welcome+to+My+Profile+" alt="Typing SVG" />
  </a>
 </p>
