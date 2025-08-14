@@ -17,12 +17,13 @@
 
 - 📫 How to reach me **m.alicolak@hotmail.com**
 
-- ⚡ **Nothing last forever. We can change the future.**
+- ⚡ **Nothing lasts forever. We can change the future.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammetalicolak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammetalicolak" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/malicolak"><img align="center" src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" alt="malicolak" height="55" width="55" />
+  <a href="https://linkedin.com/in/muhammetalicolak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammetalicolak" height="40" width="40" />  </a>
+  <a href="https://www.hackerrank.com/profile/malicolak" target="blank"><img align="center" src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" alt="malicolak" height="55" width="55" /> </a>
+  <a href="https://stackoverflow.com/users/31276291/malicolak" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/2048px-Stack_Overflow_icon.svg.png" alt="malicolak" height="55" width="55" /> </a>
 </p>
 
 <h3 align="left">Languages and Frameworks:</h3>
