@@ -45,6 +45,7 @@
   <a href="https://www.jetbrains.com/idea" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/JetBrains_IntelliJ_IDEA_Product_Icon.svg/2048px-JetBrains_IntelliJ_IDEA_Product_Icon.svg.png" alt="intellij idea" width="50" height="50" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://avatars.slack-edge.com/2024-04-05/6934042159649_ac803d1cddbcbef8f110_512.png" alt="postman" width="50" height="50"></a>
+  <a href="https://swagger.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="swagger" width="50" height="50"></a>
 </p>
 <h2 align="center"> Github Stats </h2>
 
