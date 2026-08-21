@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/muhammetalicolak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammetalicolak" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/malicolak" target="blank"><img align="center" src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" alt="malicolak" height="55" width="55" /></a>
-<a href="https://stackoverflow.com/users/31276291/malicolak" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/2048px-Stack_Overflow_icon.svg.png" alt="malicolak" height="55" width="55" /></a>
+<a href="https://stackoverflow.com/users/31276291/malicolak" target="blank"><img align="center" src="https://survey.stackoverflow.co/legacy-assets/Sites/stackoverflow/Img/apple-touch-icon%40238c9.png?v=73d79a89bded&v=hiTwitter" alt="malicolak" height="55" width="55" /></a>
 </p>
 
 <h3 align="left">Languages and Frameworks:</h3>
@@ -43,7 +43,7 @@
 </p>
 <h3 align="left">Tools:</h3>
 <p align="left">
-  <a href="https://www.jetbrains.com/idea" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/JetBrains_IntelliJ_IDEA_Product_Icon.svg/2048px-JetBrains_IntelliJ_IDEA_Product_Icon.svg.png" alt="intellij idea" width="50" height="50" /></a>
+  <a href="https://www.jetbrains.com/idea" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/960px-IntelliJ_IDEA_Icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20200803071016" alt="intellij idea" width="50" height="50" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://avatars.slack-edge.com/2024-04-05/6934042159649_ac803d1cddbcbef8f110_512.png" alt="postman" width="50" height="50"></a>
   <a href="https://swagger.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="swagger" width="50" height="50"></a>
